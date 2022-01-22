@@ -1,5 +1,7 @@
 # Grub Themes
 
+[Argon Dusk](#Argon Dusk)
+
 ## Arch Silence
 
 ![](Arch-Silence/preview.png)
