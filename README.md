@@ -4,16 +4,24 @@
 
 ### Crystals
 
-# Grub Themes
+![](argon-crystals/preview.png)
 
-![Crystals](argon-crystals/preview.png)
+### Dawn
 
-![Dawn](argon-dawn/preview.png)
+![](argon-dawn/preview.png)
 
-![Dusk](argon-dusk/preview.png)
+### Dusk
 
-![Grey](argon-grey/preview.png)
+![](argon-dusk/preview.png)
 
-![Night](argon-night/preview.png)
+### Grey
 
-![Waves](argon-waves/preview.png)
+![](argon-grey/preview.png)
+
+### Night
+
+![](argon-night/preview.png)
+
+### Waves
+
+![](argon-waves/preview.png)
