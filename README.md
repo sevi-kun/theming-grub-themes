@@ -90,6 +90,10 @@
 
 ![](Garuda/preview.png)
 
+## Greyleigh
+
+![](Greyleigh/preview.png)
+
 ## Kaiwaki
 
 ![](Kawaiki/preview.jpg)
@@ -113,6 +117,10 @@
 ## Primitivistical
 
 ![](Primitivistical/preview.png)
+
+## Poly Light
+
+![](Poly-Light/preview.png)
 
 ## Poly Dark
 
