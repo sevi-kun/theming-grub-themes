@@ -52,13 +52,19 @@
 
 ![](Breeze/preview.png)
 
-## CyberRe
 
-![](CyberRe/preview.png)
 
 ## Cyberpunk
 
 ![](Cyberpunk/preview.png)
+
+## Cyberpunk 2077
+
+![](Cyberpunk-2077/preview.png)
+
+## CyberRe
+
+![](CyberRe/preview.png)
 
 ## Dracula
 
@@ -123,6 +129,10 @@
 ## Sleek Orange
 
 ![](Sleek-Orange/preview.png)
+
+## Solarized Dark Materialized
+
+![](Solarized-Dark-Materialized/preview.png)
 
 ## Standby
 
