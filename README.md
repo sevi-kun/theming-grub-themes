@@ -100,7 +100,9 @@
 
 ## Greyleigh
 
-![](Greyleigh/preview.png)
+<p align="center">
+	<img src="Greyleigh/preview.png">
+</p>
 
 ## Kaiwaki
 
