@@ -82,6 +82,10 @@
 
 ![](Elite-Dangerous-Role-Panel/preview.jpg)
 
+<p align="center">
+	<img src="Elite-Dangerous-Role-Panel/preview.jpg">
+</p>
+
 ## Ettery
 
 ![](Ettery/preview.png)
