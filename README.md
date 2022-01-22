@@ -138,6 +138,10 @@
 
 ![](Pop_OS/preview.png)
 
+## Retro
+
+![](Retro/preview.png)
+
 ## Sleek BigSur
 
 ![](Sleek-BigSur/preview.png)
@@ -182,6 +186,10 @@
 ## WhiteSur
 
 ![](WhiteSur/preview.png)
+
+## Windows 95
+
+![](Windows-95/preview.png)
 
 ## XeroComp
 
