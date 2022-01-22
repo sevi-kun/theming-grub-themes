@@ -2,53 +2,61 @@
 
 ## Arch Silence
 
-![](arch-silence/preview.png)
+![](Arch-Silence/preview.png)
 
 ## Argon Crystals
 
-![](argon-crystals/preview.png)
+![](Argon-Crystals/preview.png)
 
 ## Argon Dawn
 
-![](argon-dawn/preview.png)
+![](Argon-Dawn/preview.png)
 
 ## Argon Dusk
 
-![](argon-dusk/preview.png)
+![](Argon-Dusk/preview.png)
 
 ## Argon Grey
 
-![](argon-grey/preview.png)
+![](Argon-Grey/preview.png)
 
 ## Argon Night
 
-![](argon-night/preview.png)
+![](Argon-Night/preview.png)
 
 ## Argon Waves
 
-![](argon-waves/preview.png)
+![](Argon-Waves/preview.png)
 
 ## Atomic
 
-![](atomic/preview.png)
+![](Atomic/preview.png)
 
 ## Aurora Penguinis
 
-![](aurora-penguinis/preview.png)
+![](Aurora-Penguinis/preview.png)
 
 ## Basil-TW
 
-![](basil-tw/preview.jpg)
+![](Basil-TW/preview.jpg)
 
 ## Big Sur
 
-![](bigsur/preview.png)
+![](BigSur/preview.png)
 
 ## Blur
 
-![](blur/preview.png)
+![](Blur/preview.png)
 
 ## Breeze
 
-![](breeze/preview.png)
+![](Breeze/preview.png)
+
+## CyberRe
+
+![](CyberRe/preview.png)
+
+## Cyberpunk
+
+![](Cyberpunk/preview.png)
 
