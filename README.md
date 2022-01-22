@@ -64,3 +64,11 @@
 
 ![](Dracula/preview.png)
 
+## Elegant
+
+![](Elegant/preview.png)
+
+## Ettery
+
+![](Ettery/preview.png)
+
