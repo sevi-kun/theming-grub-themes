@@ -84,6 +84,10 @@
 
 ![](Monterey/preview.png)
 
+## Papirus
+
+![](Papirus/preview.png)
+
 ## Primitivistical
 
 ![](Primitivistical/preview.png)
