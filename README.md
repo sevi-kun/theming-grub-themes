@@ -1,5 +1,9 @@
 # Grub Themes
 
+## Arch Silence
+
+![](arch-silence/preview.png)
+
 ## Argon Crystals
 
 ![](argon-crystals/preview.png)
