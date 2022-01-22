@@ -44,3 +44,6 @@
 
 ![](bigsur/preview.png)
 
+## Blur
+
+![](blur/preview.png)
