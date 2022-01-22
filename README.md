@@ -158,6 +158,10 @@
 
 ![](Sleek-Orange/preview.png)
 
+## Solarized Dark
+
+![](Solarized-Dark/preview.png)
+
 ## Solarized Dark Materialized
 
 ![](Solarized-Dark-Materialized/preview.png)
