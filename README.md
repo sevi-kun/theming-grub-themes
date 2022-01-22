@@ -2,69 +2,99 @@
 
 ## Arch Silence
 
-![](Arch-Silence/preview.png)
+<p align="center">
+	<img src="Arch-Silence/preview.png">
+</p>
 
 ## Argon Crystals
 
-![](Argon-Crystals/preview.png)
+<p align="center">
+	<img src="Argon-Crystals/preview.png">
+</p>
 
 ## Argon Dawn
 
-![](Argon-Dawn/preview.png)
+<p align="center">
+	<img src="Argon-Dawn/preview.png">
+</p>
 
 ## Argon Dusk
 
-![](Argon-Dusk/preview.png)
+<p align="center">
+	<img src="Argon-Dusk/preview.png">
+</p>
 
 ## Argon Grey
 
-![](Argon-Grey/preview.png)
+<p align="center">
+	<img src="Argon-Grey/preview.png">
+</p>
 
 ## Argon Night
 
-![](Argon-Night/preview.png)
+<p align="center">
+	<img src="Argon-Night/preview.png">
+</p>
 
 ## Argon Waves
 
-![](Argon-Waves/preview.png)
+<p align="center">
+	<img src="Argon-Waves/preview.png">
+</p>
 
 ## Atomic
 
-![](Atomic/preview.png)
+<p align="center">
+	<img src="Atomic/preview.png">
+</p>
 
 ## Aurora Penguinis
 
-![](Aurora-Penguinis/preview.png)
+<p align="center">
+	<img src="Aurora-Penguinis/preview.png">
+</p>
 
 ## Basil-TW
 
-![](Basil-TW/preview.jpg)
+<p align="center">
+	<img src="Basil-TW/preview.jpg">
+</p>
 
 ## Big Sur
 
-![](BigSur/preview.png)
+<p align="center">
+	<img src="BigSur/preview.png">
+</p>
 
 ## Blur
 
-![](Blur/preview.png)
+<p align="center">
+	<img src="Blur/preview.png">
+</p>
 
 ## Breeze
 
-![](Breeze/preview.png)
-
-
+<p align="center">
+	<img src="Breeze/preview.png">
+</p>
 
 ## Cyberpunk
 
-![](Cyberpunk/preview.png)
+<p align="center">
+	<img src="Cyberpunk/preview.png">
+</p>
 
 ## Cyberpunk 2077
 
-![](Cyberpunk-2077/preview.png)
+<p align="center">
+	<img src="Cyberpunk-2077/preview.png">
+</p>
 
 ## CyberRe
 
-![](CyberRe/preview.png)
+<p align="center">
+	<img src="CyberRe/preview.png">
+</p>
 
 ## Deadpool
 
@@ -74,7 +104,9 @@
 
 ## Dracula
 
-![](Dracula/preview.png)
+<p align="center">
+	<img src="Dracula/preview.png">
+</p>
 
 ## Elegant
 
@@ -90,15 +122,21 @@
 
 ## Ettery
 
-![](Ettery/preview.png)
+<p align="center">
+	<img src="Ettery/preview.png">
+</p>
 
 ## Fallout
 
-![](Fallout/preview.png)
+<p align="center">
+	<img src="Fallout/preview.png">
+</p>
 
 ## Garuda
 
-![](Garuda/preview.png)
+<p align="center">
+	<img src="Garuda/preview.png">
+</p>
 
 ## Greyleigh
 
@@ -108,7 +146,9 @@
 
 ## Kaiwaki
 
-![](Kawaiki/preview.jpg)
+<p align="center">
+	<img src="Kawaiki/preview.jpg">
+</p>
 
 ## Kameleon
 
