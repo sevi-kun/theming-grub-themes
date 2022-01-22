@@ -100,3 +100,20 @@
 
 ![](Pop_OS/preview.png)
 
+## Sleek BigSur
+
+![](Sleek-BigSur/preview.png)
+
+## Sleek Dark
+
+![](Sleek-Dark/preview.png)
+
+## Sleek Light
+
+![](Sleek-Light/preview.png)
+
+## Sleek Orange
+
+![](Sleek-Orange/preview.png)
+
+
