@@ -68,6 +68,10 @@
 
 ![](Elegant/preview.png)
 
+## Elite-Dangerous-Role-Panel
+
+![](Elite-Dangerous-Role-Panel/preview.jpg)
+
 ## Ettery
 
 ![](Ettery/preview.png)
