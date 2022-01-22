@@ -76,11 +76,11 @@
 
 ## Elegant
 
-![](Elegant/preview.png)
+<p align="center">
+	<img src="Elegant/preview.png">
+</p>
 
 ## Elite-Dangerous-Role-Panel
-
-![](Elite-Dangerous-Role-Panel/preview.jpg)
 
 <p align="center">
 	<img src="Elite-Dangerous-Role-Panel/preview.jpg">
