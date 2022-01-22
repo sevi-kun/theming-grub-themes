@@ -92,7 +92,7 @@
 
 ## Kaiwaki
 
-![](Kaiwaki/preview.jpg)
+![](Kawaiki/preview.jpg)
 
 ## Kameleon
 
