@@ -122,14 +122,18 @@
 
 ## Stylish
 
-![](Stylish/preview.jpg)
+![](Stylish/preview.png)
 
 
 ## Tela
 
-![](Tela/preview.jpg)
+![](Tela/preview.png)
 
 ## Vimix
 
-![](Vimix/preview.jpg)
+![](Vimix/preview.png)
+
+## WhiteSur
+
+![](WhiteSur/preview.png)
 
