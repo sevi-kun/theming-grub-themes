@@ -96,3 +96,7 @@
 
 ![](Poly-Dark/preview.png)
 
+## Pop! OS
+
+![](Pop_OS/preview.png)
+
