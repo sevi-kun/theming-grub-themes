@@ -116,4 +116,20 @@
 
 ![](Sleek-Orange/preview.png)
 
+## Standby
+
+![](Standby/preview.png)
+
+## Stylish
+
+![](Stylish/preview.jpg)
+
+
+## Tela
+
+![](Tela/preview.jpg)
+
+## Vimix
+
+![](Vimix/preview.jpg)
 
