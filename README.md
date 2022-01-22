@@ -1,27 +1,25 @@
 # Grub Themes
 
-## Argon
-
-### Crystals
+## Argon Crystals
 
 ![](argon-crystals/preview.png)
 
-### Dawn
+## Argon Dawn
 
 ![](argon-dawn/preview.png)
 
-### Dusk
+## Argon Dusk
 
 ![](argon-dusk/preview.png)
 
-### Grey
+## Argon Grey
 
 ![](argon-grey/preview.png)
 
-### Night
+## Argon Night
 
 ![](argon-night/preview.png)
 
-### Waves
+## Argon Waves
 
 ![](argon-waves/preview.png)
