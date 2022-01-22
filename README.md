@@ -57,7 +57,7 @@
 ## Basil-TW
 
 <p align="center">
-	<img src="Basil-TW/preview.jpg">
+	<img src="Basil-TW/preview.png">
 </p>
 
 ## Big Sur
@@ -117,7 +117,7 @@
 ## Elite-Dangerous-Role-Panel
 
 <p align="center">
-	<img src="Elite-Dangerous-Role-Panel/preview.jpg">
+	<img src="Elite-Dangerous-Role-Panel/preview.png">
 </p>
 
 ## Ettery
@@ -147,103 +147,149 @@
 ## Kaiwaki
 
 <p align="center">
-	<img src="Kawaiki/preview.jpg">
+	<img src="Kawaiki/preview.png">
 </p>
 
 ## Kameleon
 
-![](Kameleon/preview.png)
+<p align="center">
+	<img src="Kameleon/preview.png">
+</p>
 
 ## La Linea
 
-![](La-Linea/preview.png)
+<p align="center">
+	<img src="La-Linea/preview.png">
+</p>
 
 ## Minimal
 
-![](Minimal/preview.jpg)
+<p align="center">
+	<img src="Minimal/preview.png">
+</p>
 
 ## Monterey
 
-![](Monterey/preview.png)
+<p align="center">
+	<img src="Monterey/preview.png">
+</p>
 
 ## Papirus
 
-![](Papirus/preview.png)
+<p align="center">
+	<img src="Papirus/preview.png">
+</p>
 
 ## Primitivistical
 
-![](Primitivistical/preview.png)
+<p align="center">
+	<img src="Primitivistical/preview.png">
+</p>
 
 ## Poly Light
 
-![](Poly-Light/preview.png)
+<p align="center">
+	<img src="Poly-Light/preview.png">
+</p>
 
 ## Poly Dark
 
-![](Poly-Dark/preview.png)
+<p align="center">
+	<img src="Poly-Dark/preview.png">
+</p>
 
 ## Pop!_OS
 
-![](Pop_OS/preview.png)
+<p align="center">
+	<img src="Pop_OS/preview.png">
+</p>
 
 ## Retro
 
-![](Retro/preview.png)
+<p align="center">
+	<img src="Retro/preview.png">
+</p>
 
 ## Sleek BigSur
 
-![](Sleek-BigSur/preview.png)
+<p align="center">
+	<img src="Sleek-BigSur/preview.png">
+</p>
 
 ## Sleek Dark
 
-![](Sleek-Dark/preview.png)
+<p align="center">
+	<img src="Sleek-Dark/preview.png">
+</p>
 
 ## Sleek Light
 
-![](Sleek-Light/preview.png)
+<p align="center">
+	<img src="Sleek-Light/preview.png">
+</p>
 
 ## Sleek Orange
 
-![](Sleek-Orange/preview.png)
+<p align="center">
+	<img src="Sleek-Orange/preview.png">
+</p>
 
 ## Solarized Dark
 
-![](Solarized-Dark/preview.png)
+<p align="center">
+	<img src="Solarized-Dark/preview.png">
+</p>
 
 ## Solarized Dark Materialized
 
-![](Solarized-Dark-Materialized/preview.png)
+<p align="center">
+	<img src="Solarized-Dark-Materialized/preview.png">
+</p>
 
 ## Standby
 
-![](Standby/preview.png)
+<p align="center">
+	<img src="Standby/preview.png">
+</p>
 
 ## Stylish
 
-![](Stylish/preview.png)
-
+<p align="center">
+	<img src="Stylish/preview.png">
+</p>
 
 ## Tela
 
-![](Tela/preview.png)
+<p align="center">
+	<img src="Tela/preview.png">
+</p>
 
 ## Vimix
 
-![](Vimix/preview.png)
+<p align="center">
+	<img src="Vimix/preview.png">
+</p>
 
 ## Virtual-Future
 
-![](Virtual-Future/preview.png)
+<p align="center">
+	<img src="Virtual-Future/preview.png">
+</p>
 
 ## WhiteSur
 
-![](WhiteSur/preview.png)
+<p align="center">
+	<img src="WhiteSur/preview.png">
+</p>
 
 ## Windows 95
 
-![](Windows-95/preview.png)
+<p align="center">
+	<img src="Windows-95/preview.png">
+</p>
 
 ## XeroComp
 
-![](XeroComp/preview.png)
-
+<p align="center">
+	<img src="XeroComp/preview.png">
+</p>
