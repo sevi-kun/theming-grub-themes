@@ -110,6 +110,10 @@
 
 ![](La-Linea/preview.png)
 
+## Minimal
+
+![](Minimal/preview.jpg)
+
 ## Monterey
 
 ![](Monterey/preview.png)
