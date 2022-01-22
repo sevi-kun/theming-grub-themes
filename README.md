@@ -68,7 +68,9 @@
 
 ## Deadpool
 
-![](Deadpool/preview.png)
+<p align="center">
+	<img src="Deadpool/preview.png">
+</p>
 
 ## Dracula
 
